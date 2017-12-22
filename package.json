@@ -1,6 +1,7 @@
 {
   "name": "third-party",
   "version": "1.0.0",
+  "description": "Third-party to be installed by first-party repo",
   "main": "dist/index.bundle.wp.js",
   "jsnext:main": "dist/index.es.js",
   "module": "dist/index.es.js",
